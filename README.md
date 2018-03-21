@@ -4,21 +4,22 @@
 ### Основные:
 
 * head, header
-* content, cnt
-* column, col 
 * sidebar
-* wrapper
+* navbar, nav, menu, navigation
 * main
 * footer
+* content, cnt
+* column, col 
+* breadcrumbs
 
 
 ### Название блока (обёртка):
 
+* banner
 * block
 * box
 * container
 * map
-* navbar, nav, menu, navigation
 * inner 
 * wrap, wrapper
 
@@ -241,11 +242,20 @@
 * line
 * separator, separ
 
+### Таблица
+
+* table
+* tr
+* row
+* td
+* col
+* body
+* head
+
 
 ### Разные
 
-* banner
-* breadcrumbs
+
 * comment
 * discount
 * dropdown
@@ -268,7 +278,6 @@
 * slider
 * standart
 * support
-* table
 * tabs
 * tags
 * version
