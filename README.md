@@ -69,219 +69,206 @@
 
 ### Кнопки
 
+* arrow
+* back, backward
+* button, btn
+* caret
+* clear, clr
+* close
+* delete
+* divider
+* down
+* download
+* forward
+* edit
+* exit
+* enter
+* last
+* loading, load
+* login
+* logout
+* more
+* next
+* open
+* pull
+* push
+* recieve
+* refresh
+* remove
+* reply
+* select
+* touch
+* up
 
-.arrow/*стрелка*/
-.back, .backward/*назад*/
-.button, .btn/*кнопка*/
-.caret, /*стрелка*/
-.clear, .clr/*очистка*/
-.close/*закрыть*/
-.delete/*стереть*/
-.divider/*делитель*/
-.down/*вниз*/
-.download/*скачать*/
-.forward/*вперёд*/
-.edit/*изменить*/
-.exit/*выход*/
-.enter/*вход*/
-.last/*последний*/
-.loading, .load/*загрузить*/
-.login/*вход*/
-.logout/*выход*/
-.more/*больше, ещё*/
-.next/*следующий*/
-.open/*открыть*/
-.pull/*толкнуть*/
-.push/*взять*/
-.recieve/*подтвердить*/
-.refresh/*обновить*/
-.remove/*убрать*/
-.reply/*ответить*/
-.select/*выбор*/
-.touch/*дотронуться*/
-.up/*вверх*/
 
-#############
-~~~Персона~~~
-#############
+### Персона
 
-.address/*адрес*/
-.ava, .avatar/*аватар*/
-.author/*автор*/
-.birthday/*день рождения*/
-.language/*язык*/
-.name/*имя*/
-.nat., .nationality/*национальность*/
-.nickname/*позывной, кличка*/
-.person/*персона*/
-.profile/*профиль*/
-.sex/*пол*/
-.size/*размер*/
+* address
+* ava, avatar
+* author
+* birthday
+* language
+* name
+* nat, nationality
+* nickname
+* person
+* profile
+* sex
+* size
 
-###############
-~~~Заголовки~~~
-###############
 
-.full-title/*полный загаловок*/
-.title/*заголовок*/
-.short-title/*короткий заголовок*/
+### Заголовки
 
-############
-~~~Ссылки~~~
-############
+* full-title
+* title
+* short-title
+* subtitle
 
-.link/*ссылка*/
 
-###########
-~~~Текст~~~
-###########
+### Ссылки
 
-.about/*описание*/
-.description/*описание*/
-.cite/*цитата*/
-.info, .information/*инфо*/
-.par, .paragraph/*параграф*/
-.quote/*цитата*/
-.text, .txt/*текст*/
+* link
 
-#################
-~~~Изображения~~~
-#################
 
-.bg, background/*фон*/
-.icon, .ic/*иконка*/
-.image, .img/*изображение*/
-.logo/*лого*/
-.photo/*фото*/
-.posters/*постеры*/
-.wallpaper , .wp/*обои*/
+### Текст
 
-###########
-~~~Формы~~~
-###########
+* about
+* description
+* cite
+* info, information
+* par, paragraph
+* quote
+* text, txt
+* advertise, ad
+* advantages
+* benefits
+* subscription, subs
 
-.date, .form-date/*дата*/
-.form, .form-group/*форма*/
-.help, .help-form/*помощь*/
-.input/*форма ввода*/
-.label/*название формы*/
-.mail, .form-mail/*почта*/
-.number, .form-number/*номер*/
-.phone, .form-phone/*телефон*/
-.search, .form-search/*поиск*/
 
-###############
-~~~Категории~~~
-###############
+### Изображения
 
-.cat, .category/*категория*/
-.group/*группа*/
-.module/*модуль*/
-.shape/*форма*/
-.section/*секция*/
-.subcat, .subcategory/*подкатегория*/
-.subsection/*подсекция*/
-.type/*тип*/
+* bg, background
+* icon, ic, i
+* image, img
+* logo
+* photo
+* posters
+* wallpaper, wp
 
-##################
-~~~Видео, Аудио~~~
-##################
 
-.audio/*аудио*/
-.fast/*ускорение*/
-.media/*медиа*/
-.mix/*смешанный*/
-.play/*играть*/
-.pause/*пауза*/
-.repeat/*повтор*/
-.slow/*замедление*/
-.stop/*стоп*/
-.video/*видео*/
+### Формы
 
-##############
-~~~Соц.сети~~~
-##############
+* date, form-date
+* form, form-group
+* help, help-form
+* input
+* label 
+* mail, form-mail
+* number, form-number
+* phone, form-phone
+* search, form-search
 
-.fb, .facebook/*фэйсбук*/
-.fl, .flickr/*фликр*/
-.ig, .instagram/*инстаграм*/
-.od, .odnoklassniki/*одноклассники*/
-.social/*социальные*/
-.tw, .twitter/*твиттер*/
-.vk, .vkontakte/*вконтакте*/
 
-###############
-~~~Состояния~~~
-###############
+### Категории
 
-.active, .current/*активный*/
-.blocked/*заблокированный*/
-.chosen/*выбранный*/
-.disabled/*отключенный*/
-.focus/*отмеченный*/
-.hidden/*спрятанный*/
-.none/*скытый*/
-.selected/*выбранный*/
-.visible/*видимый*/
+* cat, category
+* group
+* module
+* shape
+* section
+* subcat, subcategory
+* subsection
+* type
 
-######################
-~~~Временные классы~~~
-######################
 
-.anniversary/*годовщина*/
-.day/*день*/
-.date/*дата*/
-.month/*месяц*/
-.time/*время*/
-.year/*год*/
+### Видео, Аудио
 
-#################
-~~~Разделители~~~
-#################
+* audio
+* fast
+* media
+* mix
+* play
+* pause
+* repeat
+* slow
+* stop
+* video
 
-.break/*разрыв*/
-.clearfix/*очистка*/
-.divide/*разделитель*/
-.line/*линия*/
-.separator. .separ/*разделитель*/
 
-############
-~~~Разные~~~
-############
+### Соц.сети
 
-.advertise, .ad/*реклама*/
-.advantages/*преимущества*/
-.banner/*баннер*/
-.benefits/*преимущества*/
-.breadcrumbs/*"хлебные крошки"*/
-.comment/*комментарий*/
-.discount/*скидка*/
-.dropdown/*выпадающее меню*/
-.empty/*пустой*/
-.features/*особенности*/
-.feedback/*обратная связь*/
-.full/*полный*/
-.modern/*новый*/
-.new/*новый*/
-.news/*новости*/
-.old/*старый*/
-.online/*онлайн*/
-.page/*страница*/
-.panel/*панель*/
-.pagination, .page, .pager/*переключатель страниц*/
-.popup/*всплывающее окно*/
-.price/*цена*/
-.rate/*рейтинг*/
-.sale/*распродажа*/
-.screens/*скрины*/
-.slider/*слайдер*/
-.standart/*стандарт*/
-.subscription, .subs/*описание*/
-.support/*поддержка*/
-.table/*таблица*/
-.tabs/*вкладки*/
-.tags/*тэги*/
-.version/*версия*/
+* fb, facebook
+* fl, flickr
+* ig, instagram
+* od, odnoklassniki
+* social
+* tw, twitter
+* vk, vkontakte
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+### Состояния
+
+* active
+* current
+* blocked
+* chosen
+* disabled
+* focus
+* hidden
+* none
+* selected
+* visible
+* hide
+* transparent, trnpsrnt, trn
+* empty
+
+
+### Времення
+
+* anniversary
+* day
+* date
+* month
+* time
+* year
+
+
+### Разделители
+
+* break
+* clearfix
+* divide
+* line
+* separator, separ
+
+
+### Разные
+
+* banner
+* breadcrumbs
+* comment
+* discount
+* dropdown
+* features
+* feedback
+* full
+* modern
+* new
+* news
+* old
+* online
+* page
+* panel
+* pagination, page, pager
+* popup
+* price
+* rate
+* sale
+* screens
+* slider
+* standart
+* support
+* table
+* tabs
+* tags
+* version
