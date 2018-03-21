@@ -3,12 +3,13 @@
 
 ## Основные:
 
-.content, .cnt, .content /*основной контент*/
-.column, .col /*колонка*/
-.footer /*подвал*/
-.headader, .head, .header /*шапка*/
-.sidebar /*сайдбар*/
-.wrapper /*обёртка*/
+* head, header
+* content, cnt
+* column, col 
+* sidebar
+* wrapper
+* main
+* footer
 
 ## Название блока (обёртка):
 
