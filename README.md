@@ -223,7 +223,7 @@
 * empty
 
 
-### Времення
+### Время
 
 * anniversary
 * day
